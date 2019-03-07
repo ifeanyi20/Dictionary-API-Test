@@ -9,7 +9,7 @@ var settings = {
   "method": "POST",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "203f390e-fdd5-4f35-8b27-a587f6cfbf95"
   },
@@ -29,7 +29,7 @@ var settings = {
   "method": "DELETE",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "59de4c57-0cbd-416d-9475-0c813915e126"
   },
@@ -49,7 +49,7 @@ var settings = {
   "method": "POST",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "5ef9ed93-dff3-499c-b103-cb3627e30cd8"
   },
@@ -69,7 +69,7 @@ var settings = {
   "method": "GET",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "4ee618b1-6fbf-4d91-81e1-3f2f4cdb0d39"
   },
@@ -89,7 +89,7 @@ var settings = {
   "method": "GET",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "ec98c65b-f14e-4168-96db-d4577d8b6742"
   },
@@ -110,7 +110,7 @@ var settings = {
   "method": "DELETE",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Basic cWFjYW5kaWRhdGU6c29mdEtpdHR5TGl0dGxlQmFsbG9mRnVy",
+    "Authorization": "Basic API_KEY",
     "cache-control": "no-cache",
     "Postman-Token": "0df4a887-ac57-4ff1-9f7b-08869a5bf37b"
   },
